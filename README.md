@@ -1,4 +1,4 @@
-# Projeção ICM
+# Projeção IMC
 
 Projeção para Igreja Cristã Maranata. Suporta os idiomas português (pt-BR), inglês (en) e italiano (it)
 

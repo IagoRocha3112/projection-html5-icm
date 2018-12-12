@@ -10,7 +10,7 @@ var iframeView = document.getElementById("iframeProjection").contentWindow;
 var viewSlides = "";
 var configuracoes = {};
 var ref_selected = "0_0";
-var telaPadrao = ">\n<h1>"+TRANSLATIONS[config.lang]['maranata_title']+"</h1>\n<h3>"+TRANSLATIONS[config.lang]['maranata_slogan']+"</h3>\n</section>\n";
+var telaPadrao = ">\n<h1>"+TRANSLATIONS[config.lang]['ministerio_title']+"</h1>\n<h3>"+TRANSLATIONS[config.lang]['ministerio_slogan']+"</h3>\n</section>\n";
 
 var isFirefox = typeof InstallTrigger !== 'undefined';
 
@@ -986,7 +986,7 @@ function atualizaFontSizeText(){
 $("#activeTextStandartScr").click(function(e) {
     if($(this).is(':checked')){
       $("#activeTextStandartScr2").prop('checked', false);
-     telaPadrao = ">\n<h1>"+TRANSLATIONS[config.lang]['maranata_title']+"</h1>\n<h3>"+TRANSLATIONS[config.lang]['maranata_slogan']+"</h3>\n</section>\n";
+     telaPadrao = ">\n<h1>"+TRANSLATIONS[config.lang]['ministerio_title']+"</h1>\n<h3>"+TRANSLATIONS[config.lang]['ministerio_slogan']+"</h3>\n</section>\n";
     }
     else
       telaPadrao = ">\n</section>\n";

@@ -46,8 +46,8 @@ let TRANSLATIONS = {
     'tab_edition': 'Edition',
     'tab_bible': 'Bible',
     'default_screen': 'Standard Screen',
-    'maranata_title': 'MARANATHA',
-    'maranata_slogan': 'The Lord Jesus is coming!',
+    'ministerio_title': 'WONDERS OF CHRIST',
+    'ministerio_slogan': 'The Lord Jesus is coming!',
     'title': 'Title:',
     'content': 'Content:',
     'btn_save': {
@@ -108,7 +108,7 @@ let TRANSLATIONS = {
     'logo_icon':'icon-logo_usa'
   },
   'pt-br': {
-    'navbrand': 'Projeção ICM',
+    'navbrand': 'Projeção IMC',
     'version': 'Versão '+VERSION,
     'btn_change_bgimage': {
       'title': 'Alterar imagem de fundo'
@@ -145,8 +145,8 @@ let TRANSLATIONS = {
     'tab_edition': 'Edição',
     'tab_bible': 'Bíblia',
     'default_screen': 'Tela Padrão',
-    'maranata_title': 'MARANATA',
-    'maranata_slogan': 'O Senhor Jesus vem!',
+    'ministerio_title': 'MARAVILHAS DE CRISTO',
+    'ministerio_slogan': 'O Senhor Jesus vem!',
     'title': 'Título:',
     'content': 'Conteúdo:',
     'btn_save': {
@@ -244,8 +244,8 @@ let TRANSLATIONS = {
     'tab_edition': 'Edizione',
     'tab_bible': 'Bibbia',
     'default_screen': 'Schermo standard',
-    'maranata_title': 'MARANATA',
-    'maranata_slogan': 'Il Signore Gesù viene!',
+    'ministerio_title': 'MERAVIGLIE DI CRISTO',
+    'ministerio_slogan': 'Il Signore Gesù viene!',
     'title': 'Titolo:',
     'content': 'Contenuto:',
     'btn_save': {

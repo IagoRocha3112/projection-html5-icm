@@ -8,7 +8,7 @@ Manual do Usuário
 
 <br>
 
-<strong>Projeção ICM</strong>
+<strong>Projeção IMC</strong>
 
 <br>
 
